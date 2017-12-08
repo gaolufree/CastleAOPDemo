@@ -1,0 +1,13 @@
+E:\20170821\Demo4\CastleAopDemo\bin\Release\CastleAopDemo.exe.config
+E:\20170821\Demo4\CastleAopDemo\bin\Release\CastleAopDemo.exe
+E:\20170821\Demo4\CastleAopDemo\bin\Release\CastleAopDemo.pdb
+E:\20170821\Demo4\CastleAopDemo\bin\Release\Castle.Core.dll
+E:\20170821\Demo4\CastleAopDemo\bin\Release\Common.dll
+E:\20170821\Demo4\CastleAopDemo\bin\Release\log4net.dll
+E:\20170821\Demo4\CastleAopDemo\bin\Release\Common.pdb
+E:\20170821\Demo4\CastleAopDemo\bin\Release\Castle.Core.xml
+E:\20170821\Demo4\CastleAopDemo\bin\Release\log4net.xml
+E:\20170821\Demo4\CastleAopDemo\obj\Release\CastleAopDemo.csprojResolveAssemblyReference.cache
+E:\20170821\Demo4\CastleAopDemo\obj\Release\CastleAopDemo.csproj.CoreCompileInputs.cache
+E:\20170821\Demo4\CastleAopDemo\obj\Release\CastleAopDemo.exe
+E:\20170821\Demo4\CastleAopDemo\obj\Release\CastleAopDemo.pdb

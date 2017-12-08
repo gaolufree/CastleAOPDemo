@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleAopDemo", "CastleAopDemo\CastleAopDemo.csproj", "{1F34EBA7-007C-4779-AE38-DDC5D33F2A1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{2C812557-7318-4DE3-A79B-397FAD291381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F34EBA7-007C-4779-AE38-DDC5D33F2A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F34EBA7-007C-4779-AE38-DDC5D33F2A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F34EBA7-007C-4779-AE38-DDC5D33F2A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F34EBA7-007C-4779-AE38-DDC5D33F2A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C812557-7318-4DE3-A79B-397FAD291381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C812557-7318-4DE3-A79B-397FAD291381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C812557-7318-4DE3-A79B-397FAD291381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C812557-7318-4DE3-A79B-397FAD291381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D94B7B17-A704-4EDD-AFBF-12287294F5FB}
+	EndGlobalSection
+EndGlobal

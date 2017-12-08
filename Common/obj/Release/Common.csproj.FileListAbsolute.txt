@@ -1,0 +1,8 @@
+E:\20170821\Demo4\Common\bin\Release\Common.dll
+E:\20170821\Demo4\Common\bin\Release\Common.pdb
+E:\20170821\Demo4\Common\bin\Release\log4net.dll
+E:\20170821\Demo4\Common\bin\Release\log4net.xml
+E:\20170821\Demo4\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+E:\20170821\Demo4\Common\obj\Release\Common.dll
+E:\20170821\Demo4\Common\obj\Release\Common.pdb
+E:\20170821\Demo4\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
